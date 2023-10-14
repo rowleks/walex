@@ -1,0 +1,30 @@
+a.nav-link{
+	color: #000000;
+}
+
+a.nav-link:hover, a.nav-link:active, a.nav-link:focus {
+	color:  rgb(1, 143, 85);
+}
+
+section.hero-wrap {
+	padding-top: 150px;
+}
+
+
+.navbar-toggler-icon {
+  width: 2.5em;
+  height: 1.5em;
+  background-image: none;
+  border: none;
+}
+
+.navbar-toggler-icon:before {
+  content: "Menu";
+  font-size: 1rem;
+  color: rgb(1, 143, 85);
+}}
+
+.navbar-toggler-icon:focus {
+	box-shadow: none;
+}
+
